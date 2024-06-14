@@ -1,0 +1,23 @@
+  .hero-section {
+    text-align: center;
+    padding: 2rem;
+    background-color: #aac163;
+    transition: background-color 0.7s;
+   
+  }
+  
+  .hero-section h1 {
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    color: #3b9c28;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    color: #090a09;
+  }
+  
+  .hero-section:hover {
+    background-color: #e0e0e0;
+  }
+  

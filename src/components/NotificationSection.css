@@ -1,0 +1,17 @@
+  .notification-section {
+    padding: 2rem;
+  }
+  
+  .notification-section h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #e34916;
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    .notification-section {
+      padding: 1rem;
+    }
+  }
+  

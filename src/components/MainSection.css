@@ -1,0 +1,19 @@
+  .main-section {
+    padding: 2rem;
+  }
+  
+  .main-section h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #e34916;
+    text-align: center;
+    text-shadow: #e34916;
+    text-decoration:dotted;
+  }
+  
+  @media (max-width: 768px) {
+    .main-section {
+      padding: 1rem;
+    }
+  }
+  

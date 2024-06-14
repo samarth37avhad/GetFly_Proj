@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+    padding: 2rem;
+    background-color: #aac163;
+    transition: background-color 0.7s;
+    background-image: "pngwing.png";
+   
+  }
+  
+  .Home h1 {
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    color: #3b9c28;
+  }
+  
+  .Home p {
+    font-size: 1.2rem;
+    color: #090a09;
+  }
+  
+  .Home:hover {
+    background-color: #e0e0e0;
+  }
+  
