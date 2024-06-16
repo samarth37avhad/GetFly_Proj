@@ -3,9 +3,9 @@ import NotificationSection from '../components/NotificationSection';
 
 const Notification = () => {
   const notifications = [
-    { id: 1, title: "Cybersecurity Essentials", update: "New session added on zero-trust architecture.", date: "2024-06-26" },
-    { id: 2, title: "Cloud Computing Trends", update: "Added new case studies on edge computing.", date: "2024-06-23" },
-    { id: 3, title: "Software Development Best Practices", update: "Updated session on microservices architecture.", date: "2024-06-28" },
+    { id: 1, title: "AI Components", update: "New session added on zero-trust architecture.", date: "2024-03-26" },
+    { id: 2, title: "Cyber security", update: "New Threats had been finding .", date: "2024-05-13" },
+    { id: 3, title: "Software Testing", update: "Testing the Projects", date: "2024-05-28" },
   ];
 
   return (
